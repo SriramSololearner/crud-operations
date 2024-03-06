@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 27,
+      "mobile": "675756",
+      "email": "user4@gmail.com",
+      "address": "hfhffgh",
+      "createdDate": "2023-12-15T10:51:07.459Z",
+      "updatedDate": "2023-12-15T10:51:07.459Z"
+    },
+    {
+      "id": 69,
+      "mobile": "9879045605",
+      "email": "user52@gmail.com",
+      "address": "87yuidfgg",
+      "updatedDate": "2023-12-16T13:36:25.613Z",
+      "createdDate": "2023-12-16T13:30:04.456Z"
+    },
+    {
+      "id": 88,
+      "mobile": "9874573495",
+      "email": "user3@gmail.com",
+      "address": "khsd",
+      "createdDate": "2023-12-20T09:53:25.673Z",
+      "updatedDate": "2023-12-20T09:53:25.673Z"
+    },
+    {
+      "id": 95,
+      "mobile": "111",
+      "email": "111",
+      "address": "111",
+      "createdDate": "2023-12-20T10:25:09.381Z",
+      "updatedDate": "2023-12-20T10:25:09.381Z"
+    },
+    {
+      "id": 96,
+      "mobile": "222",
+      "email": "2222",
+      "address": "222",
+      "createdDate": "2023-12-20T10:26:58.625Z",
+      "updatedDate": "2023-12-20T10:26:58.625Z"
+    },
+    {
+      "id": 97,
+      "mobile": "333",
+      "email": "33333",
+      "address": "3333",
+      "createdDate": "2023-12-20T10:29:05.762Z",
+      "updatedDate": "2023-12-20T10:29:05.762Z"
+    },
+    {
+      "id": 98,
+      "mobile": "55",
+      "email": "555555",
+      "address": "5555",
+      "createdDate": "2023-12-20T10:35:03.786Z",
+      "updatedDate": "2023-12-20T10:35:03.786Z"
+    }
+  ]
+}
